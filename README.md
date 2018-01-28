@@ -1,6 +1,7 @@
 # MovieQA_2016Spring
 
 
+*This model is the predecessor of QACNN https://arxiv.org/abs/1709.05036
 In this project, we tried to make mechine to answer queastions after watching movie.
 This is a very difficult task, and the dataset is published from the link below:
 https://github.com/makarandtapaswi/MovieQA_benchmark
